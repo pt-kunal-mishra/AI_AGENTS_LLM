@@ -1,0 +1,31 @@
+Kunal Kumar Mishra
+Sonia Vihar, Delhi, 110094
+Email: Kunalmishravats@gmail.com | Phone: +91-8743052389
+GitHub LinkedIn
+Education
+• Bhagwan Parshuram Institute of Technology, Delhi
+B. Tech in Computer Science and Engineering, Percentage: 84% September 2021 - June 2024 • Ambedkar Institute of Technology, Board of Technical Education, Delhi
+Diploma in ITES&M, Percentage: 75% August 2018 – July 2021
+Experience
+AI/ML Engineer, MTSL, Noida July 2024 - Present• Streamlined And Automated The Signature Extraction Process By Utilizing AWS Sagemaker, AWS
+Lambda, And AWS ECR In The Design And Implementation Of The SMC Signature Extraction
+Solution. • I created and refined the Almonds Data Engineering project using AWS Glue, Athena, and
+Redshift in order to create robust data pipelines, increase the efficiency of data processing, and
+enable perceptive analytics.
+Projects • Solar Irradiance Forecasting Project
+Developed a deep learning model using Python, Sklearn, and TensorFlow to forecast solar irradiance.
+Engineered features for accurate predictions and documented project progress for collaboration. • Dogecoin Price Prediction Project
+Built a machine learning model using Python and Sklearn to forecast Dogecoin’s prices. Utilized data
+preprocessing techniques, implemented regression algorithms, and documented outcomes.
+Achievements • The Robust Self-Attention Multi-Horizon Model (RSAM) was introduced in a study on
+improvements in solar irradiance prediction that was published in the International Journal of
+Research Publication and Reviews, Vol. 5, No. 3, March 2024. • Microsoft MTA Certification • took part in the 2022 Google Hash Code • took part in the 2022 Google Cloud Kickstart. • July 2023: Microsoft ML Cloud Challenge Program
+Skills
+Programming Languages: Python, C/C++, JavaScript, SQL (MySQL)
+Machine Learning & AI: TensorFlow, PyTorch, Keras, HuggingFace, LLMs, scikit-learn
+Web Development: ReactJS, JavaScript, HTML/CSS, Flask, Streamlit
+Cloud Computing: AWS Lambda, SageMaker, S3, Bedrock, ECR, Athena, Glue, Redshift, Amazon
+Q, IAM, Google Cloud Platform (GCP), BigQuery, Google Cloud Storage, Cloud Spanner, AlloyDB
+Data Engineering: Data warehousing, ETL/ELT processes, MongoDB, PySpark
+Infrastructure: Docker, CI/CD, Terraform
+Tools & Technologies: Pandas, Matplotlib, NumPy, Seaborn, Linux 
