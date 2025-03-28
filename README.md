@@ -5,6 +5,6 @@ Hii Felas Here We created some awasome projects on AI Agents or LLM Agents using
 <br>
 **LangGraph** -> <a href="https://langchain-ai.github.io/langgraph/tutorials/introduction/#part-1-build-a-basic-chatbot">Langraph</a>
 <br>**Youtube** -><br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=ndCFqT6xFQ4?controls=0">
-</iframe>
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=ndCFqT6xFQ4" type="video/mp4">
+  </video>
