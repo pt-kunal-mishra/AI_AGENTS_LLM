@@ -1,7 +1,14 @@
 ## AI Agents Demo Use-Case ##
-** Langchain **
-** SmolAgents **
-** LLAMAINDEX **
+<br>
+
+**Langchain**
+
+<br>
+
+**SmolAgents**
+<br>
+
+**LLAMAINDEX**
 
 
 <h3>How to get started with this notebook</h3>
